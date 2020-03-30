@@ -47,4 +47,46 @@
             <item>@drawable/hunterkiller</item>
         </array>
 
+
+
+    <string-array name="judul_film">
+        <item>Infinity War</item>
+        <item>Spider Man</item>
+        <item>Venom</item>
+        <item>Bunblebee</item>
+        <item>Aquaman</item>
+        <item>Deadpool</item>
+        <item>Birdbox</item>
+        <item>Glass</item>
+        <item>Robin Hood</item>
+        <item>Hunter killer</item>
+    </string-array>
+
+
+    <string-array name="desc_film">
+        <item>Putri duyung cantik bernama Ariel membuat perjanjian dengan Ursula, seorang penyihir laut, untuk bertemu Eric, seorang pangeran manusia yang dia cintai. Namun, tidak mengetahui rencana jahat Ursula, Ariel berakhir dalam masalah. </item>
+        <item>Untuk menyelamatkan ayahnya yang sakit agar tidak bertugas di Angkatan Darat Kekaisaran, seorang wanita muda yang tak kenal takut menyamar sebagai seorang pria untuk memerangi penjajah utara di Tiongkok.</item>
+        <item> Ralph lelah memainkan peran sebagai orang jahat dan memulai perjalanan untuk menjadi pahlawan video game. Tapi Ralph tanpa sengaja melepaskan musuh yang mematikan yang mengancam seluruh arcade. </item>
+        <item> Dirilis pada tahun 1940, merupakan eksperimen paling berani Disney hingga saat ini. Menghidupkan visinya memadukan citra animasi dengan musik klasik. Apa yang dimulai sebagai wahana untuk meningkatkan karier Mickey Mouse berkembang menjadi fitur lengkap yang tetap unik dalam sejarah animasi. </item>
+        <item> Hiro, robot yang luar biasa, bergabung dengan Baymax untuk membalas kematian saudaranya. Mereka kemudian bergabung dengan teman-teman Hiro untuk membentuk tim pahlawan teknologi tinggi. </item>
+        <item> DeskripsiRapunzel, seorang gadis muda yang tidak bersalah, dikunci oleh ibunya yang terlalu protektif. Keinginannya untuk melarikan diri ke dunia luar akhirnya terwujud ketika dia bertemu dengan </item>
+        <item> Aladdin adalah anak jalanan yang dicintai yang bertemu Putri Jasmine, putri cantik sultan Agrabah. </item>
+        <item> Belle, seorang gadis desa, memulai perjalanan untuk menyelamatkan ayahnya dari makhluk yang telah menguncinya di ruang bawah tanahnya. Akhirnya, ia mengetahui bahwa makhluk itu adalah pangeran yang terpesona yang telah dikutuk. </item>
+        <item> Judy Hopps dan Nick Wilde bekerja sama untuk mengungkap misteri di balik empat belas predator yang hilang. Mereka akhirnya mengetahui bahwa persekongkolan itu lebih besar daripada yang terlihat. </item>
+        <item> Simba mengidolakan ayahnya, Raja Mufasa, dan mengambil hati takdir kerajaannya sendiri di dataran Afrika. </item>
+    </string-array>
+
+    <array name="foto_film">
+        <item>@drawable/the_little_mermaid</item>
+        <item>@drawable/mulan</item>
+        <item>@drawable/wreck_it_ralph</item>
+        <item>@drawable/fantasia</item>
+        <item>@drawable/big_hero</item>
+        <item>@drawable/tangled</item>
+        <item>@drawable/aladin</item>
+        <item>@drawable/beauty_and_the_beast</item>
+        <item>@drawable/zootopia</item>
+        <item>@drawable/the_lion_king</item>
+    </array>
+
 </resources>
