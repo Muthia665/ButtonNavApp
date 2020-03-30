@@ -31,6 +31,7 @@ class HalamanFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         rv.setHasFixedSize(true)
 
+        list.addAll(getListData())
         showRecyclerList()
     }
 
