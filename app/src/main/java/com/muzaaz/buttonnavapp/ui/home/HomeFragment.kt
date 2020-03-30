@@ -33,8 +33,8 @@ class HomeFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         rv.setHasFixedSize(true)
 
-        list.addAll(getListData()) // BELUUM
-        showRecyclerList() // BELUUM
+
+        showRecyclerList()
     }
 
     private fun showRecyclerList() {
