@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">ButtonNavApp</string>
+        <string name="title_home">Home</string>
+        <string name="title_dashboard">Halaman</string>
+        <string name="title_notifications">Notifications</string>
+        <string name="change_language_settings">Ubah Bahasa</string>
+
+        <string-array name="judul_movie">
+            <item>Infinity War</item>
+            <item>Spider Man</item>
+            <item>Venom</item>
+            <item>Bunblebee</item>
+            <item>Aquaman</item>
+            <item>Deadpool</item>
+            <item>Birdbox</item>
+            <item>Glass</item>
+            <item>Robin Hood</item>
+            <item>Hunter killer</item>
+        </string-array>
+
+        <string-array name="desc_movie">
+            <item> Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya tidak pernah lebih tidak pasti. </item>
+            <item> Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Saat Wilson \ "Kingpin \" Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini. </item>
+            <item> Wartawan investigasi Eddie Brock mencoba kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri. </item>
+            <item> Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie membangkitkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa. </item>
+            <item> Setelah menjadi rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan. Yang menghalanginya adalah Arthur Curry, saudara setengah manusia, setengah saudara Atlantis dan pewaris sejati takhta. </item>
+            <item> Fred Savage yang diculik terpaksa menanggung rendisi PG-13 Deadpool 2 dari Deadpool 2 sebagai kisah Putri Pengantin perempuan yang penuh dengan keajaiban, keajaiban, dan nol F. </item>
+            <item> Lima tahun setelah kehadiran tak terlihat yang tidak menyenangkan mendorong sebagian besar masyarakat untuk bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan. </item>
+            <item> Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai orkestra yang menyimpan rahasia penting bagi keduanya. </item>
+            <item> Seorang Tentara Salib yang mengeras perang dan komandan Moornya melancarkan pemberontakan yang berani melawan mahkota Inggris yang korup. </item>
+            <item> Kapten Glass dari USS Arkansas menemukan bahwa kudeta sedang terjadi di Rusia, jadi dia dan krunya bergabung dengan kelompok elit yang bekerja di tanah untuk mencegah perang. </item>
+
+        </string-array>
+
+        <array name="foto_movie">
+            <item>@drawable/infinity_war</item>
+            <item>@drawable/spiderman</item>
+            <item>@drawable/venom</item>
+            <item>@drawable/bumblebee</item>
+            <item>@drawable/aquaman</item>
+            <item>@drawable/deadpool</item>
+            <item>@drawable/birdbox</item>
+            <item>@drawable/glass</item>
+            <item>@drawable/robinhood</item>
+            <item>@drawable/hunterkiller</item>
+        </array>
+
+</resources>
